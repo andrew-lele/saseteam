@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.18",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "SimpleHMD",
+			"Enabled": true
+		},
+		{
+			"Name": "GoogleVRHMD",
+			"Enabled": true
+		},
+		{
+			"Name": "OSVR",
+			"Enabled": true
+		}
+	],
+	"TargetPlatforms": [
+		"PS4",
+		"WindowsNoEditor",
+		"Android",
+		"AllDesktop"
+	]
+}
