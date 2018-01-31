@@ -1,0 +1,3 @@
+C:\Users\Andrew\Documents\college stuff\SASE\test_saseteam\saseteam\SaseTeam\Source\SaseTeam\SaseTeam.Build.cs
+C:\Users\Andrew\Documents\college stuff\SASE\test_saseteam\saseteam\SaseTeam\Source\SaseTeam.Target.cs
+C:\Users\Andrew\Documents\college stuff\SASE\test_saseteam\saseteam\SaseTeam\Source\SaseTeamEditor.Target.cs
